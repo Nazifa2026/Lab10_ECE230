@@ -16,7 +16,7 @@ In this lab, you’ve learned about edge sensitive circuits and explored some of
 Nazifa(49)
 
 ## Summary
-In this lab we implemented three edge-triggered flip flops(d_ff, jk_ff , t_ff on the Basys3 board. The key difference from the previous lab was that outputs only change on the rising edge of the clock (btnC press), not while the button is held.The JK Flip Flop showed how edge-sensitive circuits can hold, set, reset, or toggle a value based on inputs J and K, but only reacting at the exact moment the clock button is pressed. 
+In this lab we implemented three edge-triggered flip flops(d_ff, jk_ff , t_ff )on the Basys3 board. The key difference from the previous lab was that outputs only change on the rising edge of the clock (btnC press), not while the button is held.The JK Flip Flop showed how edge-sensitive circuits can hold, set, reset, or toggle a value based on inputs J and K, but only reacting at the exact moment the clock button is pressed. 
 
 ## Lab Questions
 
